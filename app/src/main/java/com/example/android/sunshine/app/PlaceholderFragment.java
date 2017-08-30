@@ -33,6 +33,7 @@ public class PlaceholderFragment extends Fragment {
 
         // Es necesario definir una información dummy para la prueba, por favor agregue
         String[] data = {
+
                 getString(R.string.monday)+" 2017/03/06 - " + getString(R.string.sunny)   +   " 24/17",
                 getString(R.string.tuesday)+" 2017/03/06 - " + getString(R.string.sunny)   +   " 21/8",
                 getString(R.string.wednesday)+" 2017/03/06 - " + getString(R.string.rain)   +   " 18/11",
@@ -40,6 +41,25 @@ public class PlaceholderFragment extends Fragment {
                 getString(R.string.friday)+" 2017/03/06 - " + getString(R.string.cloudy)   +   " 22/17",
                 getString(R.string.saturday)+" 2017/03/06 - " + getString(R.string.rain)   +   " 18/11",
                 getString(R.string.sunday)+" 2017/03/06 - " + getString(R.string.cold)   +   " 20/10",
+
+                getString(R.string.lunes)+" 2017/03/06 - " + getString(R.string.Soleado)   +   " 24/17",
+                getString(R.string.martes)+" 2017/03/06 - " + getString(R.string.Soleado)   +   " 21/8",
+                getString(R.string.miercoles)+" 2017/03/06 - " + getString(R.string.Lluvia)   +   " 18/11",
+                getString(R.string.jueves)+" 2017/03/06 - " + getString(R.string.Nublado)   +   " 21/8",
+                getString(R.string.viernes)+" 2017/03/06 - " + getString(R.string.Nublado)   +   " 22/17",
+                getString(R.string.sabado)+" 2017/03/06 - " + getString(R.string.Lluvia)   +   " 18/11",
+                getString(R.string.domingo)+" 2017/03/06 - " + getString(R.string.Lluvia)   +   " 20/10",
+
+                getString(R.string.Lundi)+" 2017/03/06 - " + getString(R.string.Pluie)   +   " 24/17",
+                getString(R.string.Ensoleille)+" 2017/03/06 - " + getString(R.string.Pluie)   +   " 21/8",
+                getString(R.string.Mardi)+" 2017/03/06 - " + getString(R.string.Froid)   +   " 18/11",
+                getString(R.string.Mercredi)+" 2017/03/06 - " + getString(R.string.Nuageux)   +   " 21/8",
+                getString(R.string.Jeudi)+" 2017/03/06 - " + getString(R.string.Nuageux)   +   " 22/17",
+                getString(R.string.Vendredi)+" 2017/03/06 - " + getString(R.string.Froid)   +   " 18/11",
+                getString(R.string.Samedi)+" 2017/03/06 - " + getString(R.string.Froid)   +   " 20/10",
+                getString(R.string.Dimanchey)+" 2017/03/06 - " + getString(R.string.Pluie)   +   " 24/17",
+
+
                 getString(R.string.monday)+" 2017/03/06 - " + getString(R.string.sunny)   +   " 24/17",
                 getString(R.string.tuesday)+" 2017/03/06 - " + getString(R.string.sunny)   +   " 21/8",
                 getString(R.string.wednesday)+" 2017/03/06 - " + getString(R.string.rain)   +   " 18/11",
@@ -47,20 +67,7 @@ public class PlaceholderFragment extends Fragment {
                 getString(R.string.friday)+" 2017/03/06 - " + getString(R.string.cloudy)   +   " 22/17",
                 getString(R.string.saturday)+" 2017/03/06 - " + getString(R.string.rain)   +   " 18/11",
                 getString(R.string.sunday)+" 2017/03/06 - " + getString(R.string.cold)   +   " 20/10",
-                getString(R.string.monday)+" 2017/03/06 - " + getString(R.string.sunny)   +   " 24/17",
-                getString(R.string.tuesday)+" 2017/03/06 - " + getString(R.string.sunny)   +   " 21/8",
-                getString(R.string.wednesday)+" 2017/03/06 - " + getString(R.string.rain)   +   " 18/11",
-                getString(R.string.thursday)+" 2017/03/06 - " + getString(R.string.cold)   +   " 21/8",
-                getString(R.string.friday)+" 2017/03/06 - " + getString(R.string.cloudy)   +   " 22/17",
-                getString(R.string.saturday)+" 2017/03/06 - " + getString(R.string.rain)   +   " 18/11",
-                getString(R.string.sunday)+" 2017/03/06 - " + getString(R.string.cold)   +   " 20/10",
-                getString(R.string.monday)+" 2017/03/06 - " + getString(R.string.sunny)   +   " 24/17",
-                getString(R.string.tuesday)+" 2017/03/06 - " + getString(R.string.sunny)   +   " 21/8",
-                getString(R.string.wednesday)+" 2017/03/06 - " + getString(R.string.rain)   +   " 18/11",
-                getString(R.string.thursday)+" 2017/03/06 - " + getString(R.string.cold)   +   " 21/8",
-                getString(R.string.friday)+" 2017/03/06 - " + getString(R.string.cloudy)   +   " 22/17",
-                getString(R.string.saturday)+" 2017/03/06 - " + getString(R.string.rain)   +   " 18/11",
-                getString(R.string.sunday)+" 2017/03/06 - " + getString(R.string.cold)   +   " 20/10",
+
 
         };
         List<String> weekForecast = new ArrayList<String>(Arrays.asList(data));

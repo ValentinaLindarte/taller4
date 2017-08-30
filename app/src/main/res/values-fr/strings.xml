@@ -6,16 +6,16 @@
     <string name="action_settings">Paramètres</string>
 
 
-    <string name="monday">Lundi</string>
-    <string name="sunny">Ensoleille</string>
-    <string name="tuesday">Mardi</string>
-    <string name="wednesday">Mercredi</string>
-    <string name="thursday">Jeudi</string>
-    <string name="friday">Vendredi</string>
-    <string name="saturday">Samedi</string>
-    <string name="sunday">Dimanchey</string>
-    <string name="rain">Pluie</string>
-    <string name="cold">Froid</string>
-    <string name="cloudy">Nuageux</string>
+    <string name="Lundi">Lundi</string>
+    <string name="Ensoleille">Ensoleille</string>
+    <string name="Mardi">Mardi</string>
+    <string name="Mercredi">Mercredi</string>
+    <string name="Jeudi">Jeudi</string>
+    <string name="Vendredi">Vendredi</string>
+    <string name="Samedi">Samedi</string>
+    <string name="Dimanchey">Dimanchey</string>
+    <string name="Pluie">Pluie</string>
+    <string name="Froid">Froid</string>
+    <string name="Nuageux">Nuageux</string>
 
 </resources>

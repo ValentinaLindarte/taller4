@@ -4,11 +4,8 @@
     <string name="app_name">El clima</string>
     <string name="hola_mundo">¡Hola mundo!</string>
     <string name="Ajustes">Ajustes</string>
-
-
-
     <string name="lunes">lunes</string>
-    <string name="martes">marteso</string>
+    <string name="martes">martes</string>
     <string name="miercoles">miercoles</string>
     <string name="jueves">jueves</string>
     <string name="viernes">viernes</string>
@@ -17,4 +14,5 @@
     <string name="Soleado">soleado</string>
     <string name="Lluvia">lluvia</string>
     <string name="Nublado">nublado</string>
+
 </resources>
