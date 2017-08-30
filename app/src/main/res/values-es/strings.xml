@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">El clima</string>
+    <string name="hola_mundo">¡Hola mundo!</string>
+    <string name="Ajustes">Ajustes</string>
+
+
+
+    <string name="lunes">lunes</string>
+    <string name="martes">marteso</string>
+    <string name="miercoles">miercoles</string>
+    <string name="jueves">jueves</string>
+    <string name="viernes">viernes</string>
+    <string name="sabado">sabado</string>
+    <string name="domingo">domingo</string>
+    <string name="Soleado">soleado</string>
+    <string name="Lluvia">lluvia</string>
+    <string name="Nublado">nublado</string>
+</resources>
